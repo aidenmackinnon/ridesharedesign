@@ -83,3 +83,11 @@ body {
   .panel-default>.panel-heading a[aria-expanded="false"]:after {
     content: "\e114";
   }
+  
+  .header {
+    padding: 60px;
+    text-align: center;
+    background: rgb(24, 8, 126);
+    color: white;
+    font-size: 30px;
+  }
