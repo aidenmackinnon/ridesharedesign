@@ -1,32 +1,8 @@
 
-body {
-    color: rgb(19, 19, 137), 106, 111);
-    background-color: #f1f3f6;
-    margin-top:30px;
+.header {
+    padding: 60px;
+    text-align: center;
+    background: rgb(22, 6, 142);
+    color: white;
+    font-size: 30px;
   }
-  
-  
-=
-
-h2 {
-    text-align: center;
-}
-
-h3 {
-    text-align: center;
-}
- 
-h4{
-    text-align: center;
-}
-
-
-    
-    
-h1 {
-        color: #ccc;
-        background-color: rgb(8, 35, 122);
-        margin: 0px;
-        padding: 10px 10px 10px 10px;
-        display: inline-block;
-}
