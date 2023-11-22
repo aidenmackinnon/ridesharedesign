@@ -22,11 +22,13 @@ h4{
     text-align: center;
 }
 
+
+    
+    
 header {
-    text-align: center;
-    padding-bottom: 1500px;
-    padding-top: 200px;
-    padding-left: 350px;
-    padding-right: 350px;
-    color: rgb(6, 6, 118);
+        color: #ccc;
+        background-color: rgb(8, 35, 122);
+        margin: 0px;
+        padding: 10px 10px 10px 10px;
+        display: inline-block;
 }
